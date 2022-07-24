@@ -9,15 +9,16 @@ Module 5 Challenge
     
         
 ## Conclusions
-    Among the four most promising drug regimens, Ramicane and Capomulin illustrate smaller final tumor volumes. Ramicane slightly bests Capomulin in final tumor volumes. Illustrated in the boxplot below, Infubinol has one potential outlier that is below the lower extreme.
 
-    In the Summary Statistics table for tumor volume listed below, Ramicane has the smalled average tumor volume, while Ketapril has the largest average tumor volume.
+Among the four most promising drug regimens, Ramicane and Capomulin illustrate smaller final tumor volumes. Ramicane slightly bests Capomulin in final tumor volumes. Illustrated in the boxplot below, Infubinol has one potential outlier that is below the lower extreme.
+
+In the Summary Statistics table for tumor volume listed below, Ramicane has the smalled average tumor volume, while Ketapril has the largest average tumor volume.
     
-    When treated with Capomulin, the Pearson correlation coefficient between average tumor volume and weight is 0.84, indicating a strong positive correlation. When mouse weight increases, the tumor volume also increases. This may suggest that weight affects the effectiveness of the drug regimen.
+When treated with Capomulin, the Pearson correlation coefficient between average tumor volume and weight is 0.84, indicating a strong positive correlation. When mouse weight increases, the tumor volume also increases. This may suggest that weight affects the effectiveness of the drug regimen.
 
-    Capomulin is effective in reducing tumor volume.
+Capomulin is effective in reducing tumor volume.
 
-    As illustrated in the bar graph, capomulin and Ramicane have the most timepoints out of all of the drug regimens in the study. More timepoints suggest either more mice were treated with these drug regimens or more mice survived for longer.
+As illustrated in the bar graph, capomulin and Ramicane have the most timepoints out of all of the drug regimens in the study. More timepoints suggest either more mice were treated with these drug regimens or more mice survived for longer.
 
-    There is roughly an equal gender distribution among the mice in this study.
+There is roughly an equal gender distribution among the mice in this study.
 
